@@ -1,16 +1,21 @@
-## Hi there 👋
+![Bartosz Golat: strony, aplikacje i narzędzia open source](assets/banner.svg)
 
-<!--
-**K44DEUSZ/K44DEUSZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[English version](README.en.md)
 
-Here are some ideas to get you started:
+# Cześć, jestem Bartosz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+W sieci używam pseudonimu **Kaado**. Tworzę strony internetowe, aplikacje i narzędzia, które rozwiązują konkretne problemy.
+
+Pracuję w **Bee On Top**, a równolegle rozwijam własne projekty.
+
+**[Portfolio](https://kaadeusz.pl)** · **[Narzędzia w przeglądarce](https://tools.kaadeusz.pl/pl/)** · **[Bee On Top](https://beeontop.com)** · **[LinkedIn](https://www.linkedin.com/in/bartosz-golat/)**
+
+## Z czym pracuję
+
+**Web:** TypeScript, React, Next.js, Node.js, PHP, Laravel, WordPress.
+
+**Desktop i modele lokalne:** Python, PyQt, PyTorch.
+
+## Porozmawiajmy
+
+Masz pomysł na stronę, aplikację albo narzędzie? Napisz na **[kontakt@kaadeusz.pl](mailto:kontakt@kaadeusz.pl)**.
