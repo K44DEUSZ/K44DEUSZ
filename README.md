@@ -16,26 +16,6 @@ Pracuję w **Bee On Top**, a równolegle rozwijam własne projekty.
 
 **Desktop i modele lokalne:** Python, PyQt, PyTorch.
 
-## Projekty
-
-### Biblioteki
-
-- [ip-utils](https://github.com/K44DEUSZ/ip-utils)
-- [password-generator](https://github.com/K44DEUSZ/password-generator)
-- [number-utils](https://github.com/K44DEUSZ/number-utils)
-- [color-utils](https://github.com/K44DEUSZ/color-utils)
-- [favicon-generator](https://github.com/K44DEUSZ/favicon-generator)
-- [image-utils](https://github.com/K44DEUSZ/image-utils)
-
-### Aplikacje
-
-- [PySkryptor](https://github.com/K44DEUSZ/PySkryptor)
-
-### Serwisy
-
-- [kaadeusz.pl](https://kaadeusz.pl)
-- [Narzędzia w przeglądarce](https://tools.kaadeusz.pl/pl/)
-
 ## Porozmawiajmy
 
 Masz pomysł na stronę, aplikację albo narzędzie? Napisz na **[kontakt@kaadeusz.pl](mailto:kontakt@kaadeusz.pl)**.
